@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Mateus Ferreira!</h1>
 <p align="center">
-  Estudante de Sistemas para Internet na UNICAP pelo Embarque Digital, apaixonado por criar soluções com tecnologia.
+  Estudante de Fullstack, apaixonado por criar soluções com tecnologia.
 </p>
 
 ###
