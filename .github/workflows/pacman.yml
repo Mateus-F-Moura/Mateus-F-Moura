@@ -1,0 +1,43 @@
+# Dá um nome para a nossa automação.
+name: Generate Pac-Man Contribution Graph
+
+# Define QUANDO essa automação deve rodar.
+on:
+  # "schedule" faz a automação rodar em um horário programado.
+  # A linha "cron" significa "todo dia à meia-noite".
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # "workflow_dispatch" adiciona um botão para que você possa rodar a automação manualmente.
+  workflow_dispatch:
+
+# Define o TRABALHO que a automação vai executar.
+jobs:
+  build:
+    # O robô vai rodar em uma máquina virtual com o sistema Ubuntu.
+    runs-on: ubuntu-latest
+
+    # Define a sequência de PASSOS que o robô vai seguir.
+    steps:
+      # 1. Primeiro, ele "baixa" uma cópia do seu repositório para a máquina virtual.
+      - uses: actions/checkout@v4
+
+      # 2. Em seguida, ele executa a Ação específica do Pac-Man.
+      - uses: maurodesouza/pacman-contribution-graph-action@v1.1.0
+        with:
+          # Ação precisa de uma permissão especial para salvar os arquivos no seu repositório.
+          # Este token é seguro e gerado automaticamente pelo GitHub.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Define os nomes dos arquivos de imagem que serão gerados.
+          # (Um para tema claro, outro para tema escuro)
+          output_path:
+            dark: pacman-contribution-graph-dark.svg
+            light: pacman-contribution-graph-light.svg
+
+      # 3. Por fim, ele pega os arquivos gerados e os envia de volta para o seu repositório.
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update pacman contribution graph"
+          file_pattern: "*.svg" # Adiciona ao commit apenas os arquivos .svg
