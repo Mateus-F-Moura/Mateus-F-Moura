@@ -11,6 +11,10 @@ on:
   # "workflow_dispatch" adiciona um botão para que você possa rodar a automação manualmente.
   workflow_dispatch:
 
+# ADICIONAMOS ESTA SEÇÃO PARA DAR PERMISSÃO DE ESCRITA
+permissions:
+  contents: write
+
 # Define o TRABALHO que a automação vai executar.
 jobs:
   build:
