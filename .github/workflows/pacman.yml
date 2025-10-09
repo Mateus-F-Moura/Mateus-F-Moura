@@ -1,0 +1,27 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  # Roda automaticamente todos os dias à meia-noite
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate pacman contribution graph
+        uses: joshghent/pacman-contributions@v1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_FOLDER: output # Nome da pasta onde as imagens serão salvas
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update pacman contribution graph"
+          file_pattern: output/*.svg # Adiciona apenas os arquivos .svg da pasta output
