@@ -27,6 +27,9 @@
 <h3 align="center">My GitHub Stats:</h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mateus-F-Moura&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-F-Moura&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
   </a>
 </div>
