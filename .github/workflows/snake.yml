@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  # Roda automaticamente a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite que você rode manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          # Pega o seu nome de usuário do GitHub automaticamente
+          github_user_name: ${{ github.repository_owner }}
+
+          # Lista de arquivos a serem gerados. A imagem no seu README aponta para "output/snake.svg"
+          outputs: output/snake.svg
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake animation"
+          file_pattern: output/snake.svg # Adiciona apenas o arquivo do snake ao commit
