@@ -1,51 +1,48 @@
 <h1 align="center">Hi there! I'm Mateus Ferreira 👋</h1>
-<p align="center">
-  I am a Full Stack Development student passionate about technology, with a special focus on building robust backend applications with Java and Spring Boot. Currently, I'm pursuing my degree in Systems for Internet at UNICAP through the Embarque Digital program.
-</p>
-
-- 🎯 Seeking my first opportunity as a **Junior Developer or Intern** to apply my knowledge and grow professionally.
-- 📫 How to reach me: **mf753161@gmail.com**
 
 ###
 
-<h3 align="center">My Tech Stack:</h3>
+<p align="center">I am a Full Stack Development student passionate about technology, with a special focus on building robust backend applications with Java and Spring Boot. Currently, I'm pursuing my degree in Systems for Internet at UNICAP through the Embarque Digital program.</p>
+
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,mysql,mongodb,spring,react,git" height="60" alt="technologies" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
 ###
 
-<h3 align="center">Connect with Me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateus-ferreira-de-moura" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
 
 ###
 
-<h3 align="center">My GitHub Stats:</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mateus-F-Moura&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-F-Moura&layout=compact&langs_count=8&theme=catppuccin_mocha"/>
-  </a>
-</div>
+<h3 align="left">Connect with Me:</h3>
 
-<br>
+###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Mateus-F-Moura&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph"  />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateus-F-Moura/Mateus-F-Moura/main/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateus-F-Moura/Mateus-F-Moura/main/pacman-contribution-graph-light.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mateus-F-Moura/Mateus-F-Moura/main/pacman-contribution-graph-light.svg" />
-</picture>
+<h3 align="left">Github Stats:</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus-F-Moura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mateus-F-Moura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus-F-Moura&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
