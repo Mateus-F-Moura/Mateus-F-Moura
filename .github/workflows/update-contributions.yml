@@ -1,0 +1,43 @@
+# GitHub Action para gerar e atualizar o gráfico de contribuições (estilo Pac-Man)
+
+name: Generate Contribution Graph
+
+on:
+  # Roda a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite rodar manualmente pela aba "Actions"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Contribution Images
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Gera a imagem para o tema light (claro)
+      - uses: ThaUnknown/github-contribution-graph-generator@v4
+        with:
+          userName: ${{ github.repository_owner }}
+          name: Mateus Ferreira
+          theme: "github_light" # Tema light
+          output: ./pacman-contribution-graph-light.svg # Nome do arquivo de saída
+
+      # Gera a imagem para o tema dark (escuro)
+      - uses: ThaUnknown/github-contribution-graph-generator@v4
+        with:
+          userName: ${{ github.repository_owner }}
+          name: Mateus Ferreira
+          theme: "dracula" # Tema dark
+          output: ./pacman-contribution-graph-dark.svg # Nome do arquivo de saída
+
+      # Faz o commit dos arquivos gerados para o repositório
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution graph"
+          file_pattern: "*.svg" # Adiciona todos os arquivos .svg
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions <actions@github.com>"
