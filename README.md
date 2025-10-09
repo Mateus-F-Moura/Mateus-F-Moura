@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mateus-F-Moura/Mateus-F-Moura/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Connect with Me:</h3>
 
 ###
