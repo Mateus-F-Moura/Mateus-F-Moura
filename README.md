@@ -1,34 +1,53 @@
-<h1 align="center">
-  Hi there! I'm Mateus Ferreira 👋
-</h1>
-<p align="center">
-  <em>Back-End Development student with a focus on <strong>Java</strong> and <strong>Spring Boot</strong> for building robust and scalable backend applications. <br> Currently pursuing a degree in Systems for Internet at UNICAP through the Embarque Digital program.</em>
+# 👋 Hi there! I'm Mateus Ferreira de Moura
+
+### Back-end Java + Spring Developer | Passionate about Building Scalable Systems
+
+<p align="left">
+  I'm a developer/student focused on building robust web solutions. Currently, I'm diving deep into the Spring ecosystem and microservices.
 </p>
 
-###
+---
 
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
+## 🚀 About Me
+* 🌱 I’m currently learning **Spring Framework**.
+* 👨‍💻 Studying **Internet Systems** at **Catholic University of Pernambuco**.
+* 🎯 Focused on becoming a specialist in **Fullstack**.
+* 📫 How to reach me: **mf753161@gmail.com**
+* 📄 My resume: **https://drive.google.com/file/d/1KFpX5mAIN3P_JkRuw-0pWO5P7SR85xt5/view?usp=sharing**
 
-###
+---
 
-<h3 align="center">📬 Connect with Me | Open to Opportunities</h3>
-<p align="center">
-  I am currently open to internship and junior developer opportunities. <br> Feel free to connect with me via LinkedIn or Email:
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mateus-ferreira-de-moura/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+## 🛠️ My Tech Stack
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
-  <a href="mailto:mf753161@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  
+  <br>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  </a>
+  
+  <br>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  
+  <br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
 </p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="
