@@ -1,6 +1,8 @@
 <div align="center">
-  
-  <h1>Hi there, I'm Mateus Ferreira de Moura 👋</h1>
+  <h1>
+    Hi there, I'm Mateus Ferreira de Moura 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </h1>
   
   <h3>Java Back-End Developer | Internet Systems Student</h3>
   
@@ -26,7 +28,7 @@
 ---
 
 ### 🚀 About Me
-* 👨‍💻 I'm a student of **Internet Systems** at the **Catholic University of Pernambuco (UNICAP)**.
+* 👨‍💻 I'm a student of **Internet Systems** at the **Catholic University of Pernambuco (UNICAP)**, as part of the **Embarque Digital** program.
 * 🌱 My core focus is mastering **Java**, the **Spring Framework**, and building resilient **microservices**.
 * 🎯 My goal is to grow into a well-rounded **Fullstack Developer**, capable of connecting robust back-end logic with intuitive front-end user experiences.
 
@@ -66,11 +68,12 @@ A look at the technologies, languages, and tools I use to bring my projects to l
   </tr>
   <tr>
     <td align="center">
-      <strong>Tools & Versioning</strong>
+      <strong>Tools & Environment</strong>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
     </td>
   </tr>
 </table>
