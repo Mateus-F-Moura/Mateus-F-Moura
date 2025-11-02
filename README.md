@@ -49,5 +49,5 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-F-Moura&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-F-Moura&show_icons=true&theme=github_dark&count_private=true"/>
   <img height="180em" src="
