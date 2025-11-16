@@ -19,7 +19,7 @@
     <a href="mailto:mf753161@gmail.com" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://drive.google.com/file/d/1KFpX5mAIN3P_JkRuw-0pWO5P7SR85xt5/view?usp=sharing" target="_blank" rel="noreferrer">
+    <a href="https://drive.google.com/file/d/1AmZEY806KFNuJ0a_9UrghP4ZaLzXXF-Y/view?usp=drive_link" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/View_Resume-FF5733?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume">
     </a>
   </p>
