@@ -101,17 +101,18 @@
 - ⚡ Reduces lesson planning time by 80%
 - 🏅 **2nd place winner** at Embarque Digital Kick-Off
 
-### 📚 [My Java Studies](https://github.com/Mateus-F-Moura/My-Java-Studies)
+### 📚 [Java Fundamentals Portfolio](https://github.com/Mateus-F-Moura/Java-Fundamentals-Portfolio)
 **Comprehensive Java Learning Repository**
 - 📖 Progressive learning exercises and algorithms
 - 🔄 Regular contributions demonstrating consistent growth
 - 💡 Problem-solving skills and programming logic mastery
 
-### 🔧 [Easy Registration (PHP/MySQL)](https://github.com/Mateus-F-Moura/Easy-registration)
-**Full CRUD Application**
-- 🗄️ Complete CRUD operations with PHP and MySQL
-- 🔍 Relational database design and SQL queries
-- 🛠️ Server-side logic and database integration
+### 🏛️ [Viaggio Classico Travel System](https://github.com/Mateus-F-Moura/Viaggio-Classico-Travel-Management-System)
+**Full-Stack Travel Management Platform**
+- 🌍 Complete travel agency management system with PHP/MySQL backend
+- 📊 Admin dashboard with booking analytics and customer management
+- 💳 Payment processing integration and invoice generation
+- 📦 Final project for Back-End Programming Course at Senai
 
 ---
 
@@ -151,8 +152,6 @@ I'm always open to discussing new opportunities, collaborations, or tech convers
 ---
 
 <div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Snake animation](https://github.com/Mateus-F-Moura/Mateus-F-Moura/blob/output/github-contribution-grid-snake.svg)
 
