@@ -2,7 +2,7 @@
   
 # Hi there, I'm Mateus Ferreira de Moura 👋
 
-### Java Back-End Developer | Internet Systems Student
+### Back-End Developer | Internet Systems Student
 
 *Passionate developer focused on building scalable, high-performance back-end systems.*  
 *Currently specializing in the **Spring ecosystem** and **microservices architecture**.*
