@@ -4,8 +4,7 @@
 
 ### Back-End Developer | Internet Systems Student
 
-*Passionate developer focused on building scalable, high-performance back-end systems.*  
-*Currently specializing in the **Spring ecosystem** and **microservices architecture**.*
+*Passionate developer focused on building scalable, high-performance back-end systems.* *Currently specializing in the **Spring ecosystem**, **relational databases**, and **cloud computing**.*
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pWm8EDDHIE3Ahx9Ea_ACsEcClNaLaX_8/view?usp=sharing)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mf753161@gmail.com)
@@ -20,11 +19,29 @@
 
 ## 🚀 About Me
 
-- 🎓 **Internet Systems Student** at **Catholic University of Pernambuco (UNICAP)** - *Embarque Digital Program*
-- 💼 **Technology Resident** at **Porto Digital** - Working on real-world projects for the Porto Digital ecosystem
-- 🌱 Currently mastering **Java**, **Spring Framework**, and building resilient **microservices**
-- 🎯 Goal: Become a well-rounded **Back-End Developer**, creating scalable and robust back-end logic.
-- 📍 Based in **Recife, Pernambuco, Brazil**
+* 🎓 **Internet Systems Student** at **Catholic University of Pernambuco (UNICAP)** - *Embarque Digital Program* (2025-2028).
+* 💼 **Technology Resident (Back-End Developer)** at **Porto Digital & Beyond Co.**.
+* 🌱 Currently mastering **Java (17/21)**, **Spring Boot**, and **Relational Database Modeling (SQL, JPA/Hibernate)**.
+* ☁️ Expanding my architecture skills with **AWS Cloud fundamentals**.
+* 🤖 Leveraging **AI-Assisted Development** and **Prompt Engineering** for code refactoring and task automation.
+* 📍 Based in **Recife, Pernambuco, Brazil**.
+
+---
+
+## 💼 Professional Experience & Featured Projects
+
+### 🌾 Agrotech B2B2C SaaS | Technology Resident at Beyond Co. & Porto Digital
+*Mar 2026 - May 2026*
+* 🏗️ Architected the backend infrastructure for a "zero-friction" SaaS application integrated with WhatsApp, aimed at significantly reducing CAC for farmers.
+* 💰 Developed a digital cashier system for farm financial management, feeding inputs and outputs into a monthly dashboard.
+* 🧮 Built a comprehensive cost calculator factoring in labor, products, and machinery.
+* 📄 Engineered an automated PDF and CSV financial report generator, transforming raw data into structured documentation to exponentially speed up rural credit (Pronaf) analysis and approval.
+
+### 🏛️ Viaggio Classico Travel System | SENAI Collaborative Project
+*2024*
+* 🌍 Built a full-stack Travel Management System (complete CRUD) using **PHP, MySQL, and MVC architecture**.
+* 🌤️ Integrated the **OpenMeteo API** to dynamically display real-time weather data based on geolocation.
+* 🤝 Collaborated in a 2-person agile team, implementing strict data validations across both front-end and back-end environments.
 
 ---
 
@@ -39,41 +56,39 @@
 </div>
 
 **Projeto Ágora Highlights:**
-- 🎯 Designed an AI-powered platform to automate lesson plan generation
-- ⏱️ Reduced lesson planning time by up to **80%** (10-15 hours saved per week)
-- 👥 Led a talented team through ideation, prototyping, and presentation
-- 🧠 Implemented smart cloning and customization of ready-made lesson plans
+* 🎯 Designed an AI-powered platform to automate lesson plan generation.
+* ⏱️ Reduced lesson planning time by up to **80%** (10-15 hours saved per week).
+* 👥 Led a talented team through ideation, prototyping, and presentation.
+* 🧠 Implemented smart cloning and customization of ready-made lesson plans.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Back-End**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
 ### **Front-End**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Databases**
+### **Databases & ORM**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### **Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **Cloud & AI Tools**
+![AWS](https://img.shields.io/badge/AWS_Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white)
 
-### **Methodologies**
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira-software&logoColor=white)
+### **Methodologies & Architecture**
+![Agile](https://img.shields.io/badge/Agile_&_Scrum-009FDA?style=for-the-badge&logo=agile&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_&_MVC-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -91,48 +106,24 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🎓 [Projeto Ágora](https://github.com/Mateus-F-Moura) *(Kick-Off Innovation Event - 2nd Place)*
-**AI-Powered Lesson Planning Platform**
-- 🤖 Leverages AI to generate personalized lesson plans and activities
-- 📚 Community hub for sharing and cloning educational content
-- ⚡ Reduces lesson planning time by 80%
-- 🏅 **2nd place winner** at Embarque Digital Kick-Off
-
-### 📚 [Java Fundamentals Portfolio](https://github.com/Mateus-F-Moura/Java-Fundamentals-Portfolio)
-**Comprehensive Java Learning Repository**
-- 📖 Progressive learning exercises and algorithms
-- 🔄 Regular contributions demonstrating consistent growth
-- 💡 Problem-solving skills and programming logic mastery
-
-### 🏛️ [Viaggio Classico Travel System](https://github.com/Mateus-F-Moura/Viaggio-Classico-Travel-Management-System)
-**Full-Stack Travel Management Platform**
-- 🌍 Complete travel agency management system with PHP/MySQL backend
-- 📊 Admin dashboard with booking analytics and customer management
-- 💳 Payment processing integration and invoice generation
-- 📦 Final project for Back-End Programming Course at Senai
-
----
-
 ## 🎓 Education & Certifications
 
 ### 🏫 Education
-- **Technologist in Internet Systems** | UNICAP - Catholic University of Pernambuco *(2025-2027)*
-  - *Embarque Digital Program* - Intensive fullstack development training
-  - Focus: Java, Spring Boot, APIs, Databases, Agile Methodologies
+* **Technologist in Internet Systems** | UNICAP - Catholic University of Pernambuco *(2025-2028)*
+  * *Embarque Digital Program* - Intensive software development training
+  * Focus: Data Structures, Back-End Arch (Java), Relational DBs, RESTful APIs, Agile
 
-### 📜 Recent Certifications
-- ✅ **Java Complete - DevSuperior** | Udemy *(Dec 2025)*
-- ✅ **Computational Thinking** | Alura *(Dec 2025)*
-- 🎖️ **9+ Professional Certifications** in Software Development
+### 📜 Certifications
+* ✅ **AWS Certifications:** AWS Practitioner, AWS AI Practitioner, Gen AI Fundamentals
+* ✅ **Java Complete - DevSuperior** | Udemy *(Dec 2025)*
+* ✅ **Computational Thinking** | Alura *(Dec 2025)*
 
 ---
 
 ## 🌐 Languages
 
-- 🇧🇷 **Portuguese**: Native
-- 🇺🇸 **English**: Advanced
+* 🇧🇷 **Portuguese**: Native
+* 🇺🇸 **English**: Advanced
 
 ---
 
